@@ -1,0 +1,6 @@
+projectKey=studentdatabase.com:studentdatabase
+serverUrl=http://localhost:9000
+serverVersion=8.7.0.41497
+dashboardUrl=http://localhost:9000/dashboard?id=studentdatabase.com%3Astudentdatabase
+ceTaskId=AXgVgKGKGZS-vf2c1dSh
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXgVgKGKGZS-vf2c1dSh
